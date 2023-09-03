@@ -101,6 +101,20 @@ const database = {
       subtitle: "The result in the form of a csv file.",
       imageUrl: "/images/portfolio-image-2.jpg",
       url: '/files/EC3rdSem.csv'
+    },
+    {
+      id: 7,
+      title: "CS-DS 4th Sem",
+      subtitle: "The result in the form of a csv file.",
+      imageUrl: "/images/portfolio-image-2.jpg",
+      url: '/files/newTry.csv'
+    },
+    {
+      id: 8,
+      title: "CS-IOT 4th Sem",
+      subtitle: "The result in the form of a csv file.",
+      imageUrl: "/images/portfolio-image-2.jpg",
+      url: '/files/newTryIOT.csv'
     }
   ],
   experience: {
