@@ -6,6 +6,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "./index.css";
 import App from "./App";
 
+// Note that many syntax may be a ilttle older cause I am using the older version of React, however the syntax doesn't matter much and speciawlly for React it is really fast-growing, so makes sense
 ReactDOM.render(<App/>, document.getElementById("root"));
 
 // ReactDOM.render(<h1>Haha</h1> , document.getElementById("root"));
