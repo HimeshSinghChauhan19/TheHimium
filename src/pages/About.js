@@ -24,6 +24,7 @@ function About() {
             <div className="col-lg-6">
               <div className="mi-about-image">
                 <img
+                // Needed to change this with below line cause when a react project is deployed then we cannot access the files of public folder and thus we should keep files in src folder only
                   // src="/images/image2.jpg"
                   src={image2}
                   alt="about"
