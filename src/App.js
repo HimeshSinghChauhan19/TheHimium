@@ -9,14 +9,15 @@ import someBlogs from "./pages/someBlogs";
 import Contact from "./pages/Contact";
 // import CourseDetails from "./pages/CourseDetails";
 
-function App() {
+
+function App(){
   return (
     // <>
     // <a href="https://stupendoushsc.blogspot.com">This is the anchor tag</a>
     // <h2>This is the App.js returning a h2 tag...</h2>
     // </>
     <>
-    <BrowserRouter>
+    <BrowserRouter basename="/TheHimium">
       <Switch>
         <Route path="/" exact component={Home}/>
         <Route path="/about" component={About}/>

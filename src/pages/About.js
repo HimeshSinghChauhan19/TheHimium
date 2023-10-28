@@ -2,6 +2,8 @@ import React, { useState} from 'react'
 import * as Icon from 'react-feather'
 import Sectiontitle from '../components/Sectiontitle'
 import Layout from '../components/Layout'
+import image2 from '../static/images/image2.jpg';
+
 
 function About() {
   // To handle the toggling of the menu icon in a resolution like that of a mobile phone or like that
@@ -22,7 +24,8 @@ function About() {
             <div className="col-lg-6">
               <div className="mi-about-image">
                 <img
-                  src="/images/image2.jpg"
+                  // src="/images/image2.jpg"
+                  src={image2}
                   alt="about"
                   onClick={() => handleToggler(!toggler)}
                 />
