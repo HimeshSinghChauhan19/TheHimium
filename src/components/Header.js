@@ -1,7 +1,7 @@
 import React, { useState} from 'react';
 import {NavLink, Link} from 'react-router-dom';
 import LineIcon from 'react-lineicons';
-import image3 from '../static/images/image3.jpg';
+import image4 from '../static/images/image4.png';
 function Header(){
     const [navigationToggler, setNavigationToggler] = useState(false);
 
