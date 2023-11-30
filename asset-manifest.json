@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/TheHimium/static/css/main.6a73d6b0.css",
-    "main.js": "/TheHimium/static/js/main.f5462b6b.js",
-    "static/media/image3.jpg": "/TheHimium/static/media/image3.2db2fc30dfdf515ca542.jpg",
+    "main.css": "/TheHimium/static/css/main.6ebaa384.css",
+    "main.js": "/TheHimium/static/js/main.cabc34a3.js",
+    "static/media/image4.png": "/TheHimium/static/media/image4.056454a7e2af211d1ffc.png",
     "static/media/image2.jpg": "/TheHimium/static/media/image2.88cecb112b8aa9ce8c64.jpg",
     "static/media/slick.svg": "/TheHimium/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/TheHimium/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/TheHimium/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/TheHimium/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/TheHimium/index.html",
-    "main.6a73d6b0.css.map": "/TheHimium/static/css/main.6a73d6b0.css.map",
-    "main.f5462b6b.js.map": "/TheHimium/static/js/main.f5462b6b.js.map"
+    "main.6ebaa384.css.map": "/TheHimium/static/css/main.6ebaa384.css.map",
+    "main.cabc34a3.js.map": "/TheHimium/static/js/main.cabc34a3.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a73d6b0.css",
-    "static/js/main.f5462b6b.js"
+    "static/css/main.6ebaa384.css",
+    "static/js/main.cabc34a3.js"
   ]
 }
