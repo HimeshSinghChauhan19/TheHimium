@@ -21,7 +21,7 @@ function Header(){
                         
                 {/* Needed to change this with below line cause when a react project is deployed then we cannot access the files of public folder and thus we should keep files in src folder only */}
                 {/* <img src="/images/image3.jpg" alt="brandimage"/> */}
-                        <img src={image3} alt="brandimage"/>
+                        <img src={image4} alt="brandimage"/>
                     </Link>
                 </div>
                 <ul className="mi-header-menu">
